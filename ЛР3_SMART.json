@@ -1,0 +1,16 @@
+{
+  "Measured": "2026-11-26T19:55:39+07:00",
+  "Log": "NVMe SMART / Health Information (02h)",
+  "Critical warning": "0x00",
+  "Composite temperature (deg C)": 34,
+  "Available spare (%)": 100,
+  "Available spare threshold (%)": 5,
+  "Percentage used (%)": 2,
+  "Data units read (x 512000 bytes)": 112020540,
+  "Data units written (x 512000 bytes)": 90626308,
+  "Power cycles": 767,
+  "Power on hours": 13721,
+  "Unsafe shutdowns": 78,
+  "Media and data integrity errors": 0,
+  "Error log entries": 0
+}
